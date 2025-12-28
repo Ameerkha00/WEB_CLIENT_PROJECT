@@ -118,7 +118,7 @@ document.addEventListener("DOMContentLoaded", () => {
     showMessage("Account created successfully! Redirecting to login...", "success");
 
     setTimeout(() => {
-      window.location.href = "../login/login.html";
+      window.location.href = "../login.html";
     }, 900);
   });
 });

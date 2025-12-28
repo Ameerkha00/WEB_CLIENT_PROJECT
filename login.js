@@ -48,6 +48,6 @@ form.addEventListener("submit", (e) => {
 
   // ✅ required by spec: redirect to search page after login
   setTimeout(() => {
-    window.location.href = "../search/search.html";
+    window.location.href = "../search.html";
   }, 500);
 });
