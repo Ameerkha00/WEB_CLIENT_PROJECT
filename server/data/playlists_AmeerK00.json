@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3a5f1a93-6406-4597-a8d6-c98cd9ca523f",
+    "name": "Songs",
+    "items": [
+      {
+        "videoId": "rYEDA3JcQqw",
+        "title": "Adele - Rolling in the Deep (Official Music Video)",
+        "thumb": "https://i.ytimg.com/vi/rYEDA3JcQqw/mqdefault.jpg",
+        "rating": 0
+      },
+      {
+        "videoId": "a2giXO6eyuI",
+        "title": "Set Fire to the Rain",
+        "thumb": "https://i.ytimg.com/vi/a2giXO6eyuI/mqdefault.jpg",
+        "rating": 4
+      }
+    ]
+  }
+]
